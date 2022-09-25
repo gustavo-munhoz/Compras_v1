@@ -1,0 +1,8 @@
+https://youtu.be/P1T6q1IpGRE
+
+Houveram algumas coisas que não consegui responder no vídeo, por falta de tempo.
+Quais foram minhas maiores dificuldades?
+
+Aprender a ler e editar os arquivos de texto, além de decidir como estruturar as classes de modo que o programa conseguisse relacionar ambos. Recriei a classe Usuário várias vezes, e editei os atributos da classe Carrinho algumas vezes também, pois não conseguia encontrar um meio de salvar as compras já feitas no arquivo usuarios.txt. Houveram também algumas classes de negócio que acabaram imprimindo textos, não consegui evitar completamente. Tirando isso, não houveram grandes dificuldades.
+
+Minha experiência com POO foi interessante. Já tinha utilizado em Python, inclusive com um pouco de interface gráfica. No entanto, esse paradigma no Java é muito mais forte, o que torna as coisas um pouco complicadas no início. Depois de me acostumar, o Java rapidamente se tornou uma linguagem pela qual criei grande gosto e vontade de continuar programando.
